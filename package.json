@@ -23,6 +23,6 @@
     "nodemon": "^2.0.2",
     "passport": "^0.4.1",
     "passport-google-oauth20": "2",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   }
 }
